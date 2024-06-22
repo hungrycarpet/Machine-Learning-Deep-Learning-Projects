@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuakeDeT</string>
+    <string name="enter_your_country">Enter your Country</string>
+    <string name="enter">Enter</string>
+    <string name="speech">Speech</string>
+    <string name="slash">Slash</string>
+    <string name="home">Home</string>
+    <string name="About">About</string>
+    <string name="Setting">Setting</string>
+    <string name="get_your_details">Features</string>
+    <string name="open">Open</string>
+
+    <string name="close">Close</string>
+    <string name="parameters">Parameters</string>
+    <string name="time">YYYY-MM-DD</string>
+
+</resources>

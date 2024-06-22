@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menu_header"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="335dp"
+        android:contentDescription="Seismograph"
+        android:scaleType="centerCrop"
+        android:src="@drawable/map" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_your_details"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+</LinearLayout>
