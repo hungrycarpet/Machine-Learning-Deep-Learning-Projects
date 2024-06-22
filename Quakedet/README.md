@@ -1,4 +1,4 @@
-# QuakeDec 
+# QuakeDet
 
 ## An earthquake prediction application where the prediction is based on seismic data and date is retrived from USGS([USGS Website](https://www.usgs.gov/)) API call.
 
