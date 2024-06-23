@@ -61,7 +61,7 @@ The performance of the model is evaluated using various metrics to ensure its ac
 ### Stock Prices Visualization
 ![Crypto-Trade Forecasting Interface](assets/screenshot-1.png "Crypto-Trade Forecasting Interface")
 
-### Stock Prices Forecasting
+### Stock Prices Forecasting with Different models
 ![Crypto-Trade Forecasting Interface](assets/screenshot-3.png "Crypto-Trade Forecasting Interface")
 
 ## Contact
