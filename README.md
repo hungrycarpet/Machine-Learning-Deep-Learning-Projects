@@ -7,11 +7,11 @@ Welcome to the Machine Learning and Deep Learning Projects repository! This coll
 Explore a range of projects showcasing machine learning and deep learning skills:
 
 1. **BBCAnalyzer**: A system for classifying news into five categories: business, entertainment, politics, sport, and tech.
-2. **Crypto-Trading**: A forecasting system for predicting future prices of cryptocurrencies using real-time data from the Binance API.
+2. **Crypto-Trading Stock Price Forecast System**: A forecasting system for predicting future prices of cryptocurrencies using real-time data from the Binance API.
 3. **HandSpeakAI**: An AI-powered application for recognizing and interpreting hand gestures.
 4. **PoetAI**: An AI-based system for generating poetry based on user inputs.
 5. **Potato Disease Classification**: A web application for detecting and classifying diseases in potato plant leaves.
-6. **Quakedet**: A tremor detection system that forecasts possible tremors for a location using real-time data from the USGS website.
+6. **Quakedet Tremor Detection System**: A tremor detection system that forecasts possible tremors for a location using real-time data from the USGS website.
 
 ## Setup Instructions
 
