@@ -1,6 +1,6 @@
 # Crypto-Trade Forecasting System
 
-The Crypto-Trade Forecasting System is an innovative and user-friendly web application designed to assist traders in forecasting future prices of cryptocurrencies. By leveraging real-time stock prices and data from Python's Binance API, the system provides real-time visualization and uses state-of-the-art models to predict future stock prices. This application is built using powerful machine learning technologies such as scikit-learn, Keras, and TensorFlow, and is implemented in Python.
+The Crypto-Trade Forecasting System is an innovative solution designed to assist traders in forecasting future prices of cryptocurrencies. By leveraging real-time stock prices and data from Python's Binance API, the system provides real-time visualization and uses state-of-the-art models to predict future stock prices. This application is built using powerful machine learning technologies such as scikit-learn, Keras, and TensorFlow, and is implemented in Python.
 
 ## Features
 
